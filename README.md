@@ -1,2 +1,2 @@
-# Progidy
+# Prodigy
 Projecto program estruc
